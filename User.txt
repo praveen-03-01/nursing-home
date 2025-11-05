@@ -1,0 +1,4 @@
+manager,admin123,manager
+cashier,cash123,cashier
+asdas,asd,cashier
+cashier,123,cashier
